@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/SiRniTb.png" width="1000">
 
-Yet another memory reader for osu! Supports both Linux and Windows. (**requires sudo on Linux** though since only root can read /proc)
+Yet another memory reader for osu! Supports both Linux and Windows. (**requires sudo on Linux** though since only root can read /proc) 
 
 Build custom pp counters with ease!\
 You can contact us here: https://discord.gg/8enr4qD
